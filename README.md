@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity Development**
 
-- 📄 Know about my experiences [[https://drive.google.com/drive/u/0/home](https://drive.google.com/drive/u/0/home)](https://drive.google.com/file/d/1gnt7glo6RzQMYPiirfvdAi_mwuMACPeU/view?usp=sharing)
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1gnt7glo6RzQMYPiirfvdAi_mwuMACPeU/view?usp=sharing)]
 
 - ⚡ Am I from Tennessee? **Cause im the 10 you need. please.**
 
