@@ -17,14 +17,15 @@
 </p>
 
 <p align="center">
-  🏢 Undergraduate Researcher @ University of Guelph <br/>
-  🎓 Computer Engineering @ University of Guelph <br/>
-  💻 Teaching ML agents to avoid user interaction
+  🏢 undergraduate researcher @ University of Guelph <br/>
+  🎓 computer engineering @ University of Guelph <br/>
+  💻 teaching ml agents to replace me someday
 </p>
 
 ---
-
-### 🛠️ Tech Stack
+<p align="center">
+🃏 tech stack 
+</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
