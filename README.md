@@ -8,9 +8,9 @@
   </a>
 </p>
 
-<p align="center">
-  lately i've been:
-</p>
+<h3 align="center" >
+  <b> lately i've been:</b>
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/HV0tHmPREaD0sIixmg/giphy.gif" width="300" alt="Typing Cat Paws" />
@@ -23,9 +23,9 @@
 </p>
 
 ---
-<p align="center">
-🃏 tech stack 
-</p>
+<h3 align="center">
+<b>🃏 tech stack </b>
+</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
