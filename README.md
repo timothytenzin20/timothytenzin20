@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  🏢 undergraduate researcher @ University of Guelph <br/>
+  🏢 software developer intern @ shopify <br/>
   🎓 computer engineering @ University of Guelph <br/>
   💻 teaching ml agents to replace me someday
 </p>
